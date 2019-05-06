@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+It is a testing on gitHub. Please be adviced that attitude to work is important.
